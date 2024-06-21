@@ -1,21 +1,25 @@
 # Incident-Handler-Journal
-In this project, I simulate reviewing the details of a security incident and document the incident using my incident handler's journal - once of the most important documents in the incident response process
+In this project, I simulate reviewing the details of a security incident and document the incident using my incident handler's journal - one of the most important documents in the incident response process
 
 ### Skills Learned
 
-- 
+- **Incident Documentation:** Gained experience in thoroughly documenting a cybersecurity incident, ensuring all details are recorded systematically.
+- **Incident Analysis:** Developed skills in analyzing the sequence of events to understand methods used by attackers.
+- **Communication:** Improved ability to communicate incident details and responses to various stakeholders.
+- **Response Planning:** Developed a structured and systematic approach towards responding to cybersecurity incidents. 
+- **Ethical and Legal Considerations:** Gained awareness of the ethical and legal implications of actions taken during and after a cybersecurity attack, for example, ransom payments during a ransomware attack.
 
 ### Tools Used
 
-- 
+- **Incident Handler's Journal.**
 
 ## Scenario 1 - Ransomware Attack
-_A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.__
+_A small U.S. healthcare clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.__
 
 _Additionally, employees also reported that a ransom note was displayed on their computers. The ransom note stated that all the company's files were encrypted by an organized group of unethical hackers who are known to target organizations in healthcare and transportation industries. 
 In exchange for restoring access to the encrypted files, the ransom note demanded a large sum of money in exchange for the decryption key._
 
-_The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded._
+_The attackers were able to gain access to the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded._
 
 _Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance._
 
