@@ -59,7 +59,7 @@ As you continue through this course you may use this template to record your fin
 | **Access Controls:**                          | Implement strict access controls and monitor network traffic to detect and prevent unauthorized access. |
 | **Patching and Updates:**                     | Ensure all systems and software are kept up-to-date with the latest security patches. |
 
-| **Considerations the Ransomware Attack**   |                                           |
+| **Considerations regarding the Ransomware Attack**   |                                           |
 |-----------------------------------------------|-------------------------------------------|
 | **Risk of Non-Retrieval:**                    | Paying the ransom does not guarantee the attackers will provide the decryption key. |
 | **Funding Criminal Activities:**              | Paying the ransom could encourage further criminal activities and fund other illegal operations. |
@@ -70,8 +70,6 @@ As you continue through this course you may use this template to record your fin
 
 This incident highlights the critical need for proactive cybersecurity measures, including employee training, robust email security, and comprehensive incident response planning. The company should invest in preventive strategies to mitigate the risk of future attacks and ensure business continuity in the event of similar incidents. Paying the ransom is not recommended due to the uncertainties and potential negative consequences. Instead, the company should focus on improving its cybersecurity posture and recovery capabilities.
 
-This expanded incident handler's journal provides a comprehensive overview of the incident, including detailed actions taken, impact assessment, and preventive measures for the future.
 
 
 
- ## Conclusion
